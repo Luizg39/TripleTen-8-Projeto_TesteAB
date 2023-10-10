@@ -11,26 +11,26 @@ Descrição dos dados
 Dataframe contendo as hipóteses:
 
 - Hypotheses — breves descrições das hipóteses
-Reach — alcance do usuário, em uma escala de um a dez
-Impact — impacto nos usuários, em uma escala de um a dez
-Confidence — confiança na hipótese, em uma escala de um a dez
-Effort — os recursos necessários para testar uma hipótese, em uma escala de um a dez. Quanto maior o valor de Effort, mais recursos são necessários para o teste.
+- Reach — alcance do usuário, em uma escala de um a dez
+- Impact — impacto nos usuários, em uma escala de um a dez
+- Confidence — confiança na hipótese, em uma escala de um a dez
+- Effort — os recursos necessários para testar uma hipótese, em uma escala de um a dez. Quanto maior o valor de Effort, mais recursos são necessários para o teste.
 
 
 Dataframe contendo as os pedidos dos usuários:
 
-transactionId — identificador do pedido
-visitorId — identificador do usuário que fez o pedido
-date — do pedido
-revenue — do pedido
-group — o grupo de teste A/B ao qual o usuário pertence
+- transactionId — identificador do pedido
+- visitorId — identificador do usuário que fez o pedido
+- date — do pedido
+- revenue — do pedido
+- group — o grupo de teste A/B ao qual o usuário pertence
 
 
 Dataframe contendo a quantidade de visitas por dia:
 
-date — data
-group — grupo de teste A/B
-visits — o número de visitas na data especificada para o grupo de teste A/B especificado
+- date — data
+- group — grupo de teste A/B
+- visits — o número de visitas na data especificada para o grupo de teste A/B especificado
 
 
 ## Conclusão
@@ -38,9 +38,9 @@ Hipósteses
 
 As hipóteses que devem ser testadas primeiro pelo framework RICE são:
 
-Add a subscription form to all the main pages. This will help you compile a mailing list.
-Add product recommendation blocks to the store's site. This will increase conversion and average purchase size.
-Add two new channels for attracting traffic. This will bring 30% more users.
+- Add a subscription form to all the main pages. This will help you compile a mailing list.
+- Add product recommendation blocks to the store's site. This will increase conversion and average purchase size.
+- Add two new channels for attracting traffic. This will bring 30% more users.
 
 Teste A/B
 Conversão
