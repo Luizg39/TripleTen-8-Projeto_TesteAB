@@ -10,7 +10,7 @@ Descrição dos dados
 
 Dataframe contendo as hipóteses:
 
-Hypotheses — breves descrições das hipóteses
+- Hypotheses — breves descrições das hipóteses
 Reach — alcance do usuário, em uma escala de um a dez
 Impact — impacto nos usuários, em uma escala de um a dez
 Confidence — confiança na hipótese, em uma escala de um a dez
